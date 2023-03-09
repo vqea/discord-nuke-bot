@@ -18,7 +18,7 @@ nuker = commands.Bot(command_prefix=prefix)
 @nuker.event
 async def on_ready():
    await nuker.change_presence(activity=discord.Game(name="github/vqea"))
-   print(f"""                                     _             
+   print(f"""{Fore.TEAL}                                     _             
           __   ____ _  ___  __ _      _ __  _   _| | _____ _ __ 
           \ \ / / _` |/ _ \/ _` |    | '_ \| | | | |/ / _ \ '__|
            \ V / (_| |  __/ (_| |    | | | | |_| |   <  __/ |   
