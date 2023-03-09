@@ -1,6 +1,6 @@
 # discord-nuke-bot
 ```
-git clone https://github.com/natrixdev/Discord-Nuke-Bot
+git clone https://github.com/vqea/discord-nuke-bot
 ```
 ```
 python3 main.py
